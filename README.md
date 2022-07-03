@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-#### `I am Oluebube a self taught frontend developer (I build responsive and accessible websites).` <br><br>I am committed to life long learning and growth. Feeding my curiosity learning new tools and technologies everyday.
+#### `I am Oluebube a self taught frontend developer (I build responsive, accessible and secure web applications).` <br><br>I am committed to life long learning and growth. Feeding my curiosity learning new tools and technologies everyday.
 
 
 ## KEY SKILLS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-react-%233776AB?style=flat-square&logo=react&logoColor=ffffff)
+![Node Js](https://img.shields.io/badge/-Node%20Js-%23E44D27?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=green&color=green)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
