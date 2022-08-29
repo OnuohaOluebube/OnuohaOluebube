@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### `I am Oluebube a self taught frontend developer (I build responsive, accessible and secure web applications).` <br><br>I am committed to life long learning and growth. Feeding my curiosity learning new tools and technologies everyday.
+#### `I am Oluebube a self taught software developer (I build responsive, accessible and secure web applications).` <br><br>I am committed to life long learning and growth. Feeding my curiosity learning new tools and technologies everyday.
 
 
 ## KEY SKILLS
