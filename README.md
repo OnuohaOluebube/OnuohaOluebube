@@ -4,7 +4,9 @@
 
 
 ## KEY SKILLS
+![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Django](https://img.shields.io/badge/-django-%233776AB?style=flat-square&logo=django&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-react-%233776AB?style=flat-square&logo=react&logoColor=ffffff)
 ![Node Js](https://img.shields.io/badge/-Node%20Js-%23E44D27?style=flat-square&logo=node.js&logoColor=ffffff&labelColor=green&color=green)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -13,7 +15,7 @@
 I also have experience with 
 * Cloud computing (AWS)
 * Docker 
-* Nodejs
+* Postgres
 * Mongodb
 
 
